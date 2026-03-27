@@ -4,32 +4,46 @@
 
 ### 二、相关好文
 
- > 1.[蚂蚁金服体验科技系列好文](https://github.com/Seasons123/blog-UX-Designer/issues/1)
+ > [蚂蚁金服体验科技系列好文](https://github.com/Seasons123/blog-UX-Designer/issues/1)
 
- > 2.[语雀相关好文](https://github.com/Seasons123/blog-UX-Designer/issues/2)
+ > [语雀相关好文](https://github.com/Seasons123/blog-UX-Designer/issues/2)
  
- > 3.[如何评价新版 iPhone X 的设计规范？](https://www.zhihu.com/question/65286874/answer/230195437)
+ > [如何评价新版 iPhone X 的设计规范？](https://www.zhihu.com/question/65286874/answer/230195437)
  
  
  ### 三、读书笔记
 
- > 1.[《模度》](https://github.com/Seasons123/blog-UX-Designer/issues/3)
+ > [《模度》](https://github.com/Seasons123/blog-UX-Designer/issues/3)
  
- > 2.[《Atomic Design by Brad Frost》](https://github.com/Seasons123/blog-UX-Designer/issues/4)
+ > [《Atomic Design by Brad Frost》](https://github.com/Seasons123/blog-UX-Designer/issues/4)
  
- > 3.[《界面设计模式》](https://github.com/Seasons123/blog-UX-Designer/issues/7)
+ > [《界面设计模式》](https://github.com/Seasons123/blog-UX-Designer/issues/7)
  
- > 4.[《Web 界面设计》](https://github.com/Seasons123/blog-UX-Designer/issues/8)
- 
+ > [《Web 界面设计》](https://github.com/Seasons123/blog-UX-Designer/issues/8)
+
+ > 《设计心理学》《About Face》《用户体验要素》《Don't Make Me Think》
+
+ > [人文/科普类书单](https://github.com/Seasons123/blog-UX-Designer/issues/11)
  
  
   ### 四、常用常逛网站
 
- > 1.[ SketchUp吧](http://www.sketchupbar.com)
+  面向创作家、艺术工作者、设计师等创意类作品人群的网站
 
- > 2.[ 一个面向创作家、艺术工作者、设计师等创意类作品人群的网站-Dribbble](https://dribbble.com)
+ > [ SketchUp](http://www.sketchupbar.com)
+
+ > [Dribbble](https://dribbble.com)
+
+ > [NNgroup](https://www.nngroup.com/)
+
+ > 其它网站：Smashing Magazine、UX Collective、Medium UX 专栏
  
- 
-  ### 五、非专业类书籍
-  
-  > 1.[书单](https://github.com/Seasons123/blog-UX-Designer/issues/11)
+ > 课程：oursera（密歇根大学UX专项）、Udemy（CalEdison）、Flux Academy
+
+
+  ### 五、AI时代一人公司职业选择分析
+
+ 三种人生模式：技术专家 vs 管理者 vs 独立创作者
+
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/59acceee-00e8-46ee-b3d6-9d2796e856c9" />
+
