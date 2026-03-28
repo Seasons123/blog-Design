@@ -43,7 +43,11 @@
 
   ### 五、AI时代一人公司职业选择分析
 
- 三种人生模式：技术专家 vs 管理者 vs 独立创作者
+  > [AI时代职业分析与规划思考](https://github.com/Seasons123/blog-UX/issues/22)
+  
+  > [How to Start a Startup](https://github.com/Seasons123/blog-UX/issues/21)
 
-<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/59acceee-00e8-46ee-b3d6-9d2796e856c9" />
+  > 三种人生模式：技术专家 vs 管理者 vs 独立创作者
+
+  <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/59acceee-00e8-46ee-b3d6-9d2796e856c9" />
 
