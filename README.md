@@ -44,6 +44,8 @@
   ### 五、AI时代一人公司职业选择分析
 
   > [AI时代职业分析与规划思考](https://github.com/Seasons123/blog-UX/issues/22)
+
+  > [Paper 已死，硬核科研当立](https://mp.weixin.qq.com/s/yVGBGAUgZSkAmWAyTfqnOQ)
   
   > [How to Start a Startup](https://github.com/Seasons123/blog-UX/issues/21)
 
