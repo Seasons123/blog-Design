@@ -23,7 +23,7 @@
 
  > 《设计心理学》《About Face》《用户体验要素》《Don't Make Me Think》
 
- > [人文/科普类书单](https://github.com/Seasons123/blog-UX-Designer/issues/11)
+ > [人文科普书单](https://github.com/Seasons123/blog-UX-Designer/issues/11)
  
  
   ### 四、常用常逛网站
@@ -45,11 +45,11 @@
 
   > [部分职业分析与规划思考](https://github.com/Seasons123/blog-UX/issues/22)
 
-  > [Paper已死，硬核科研当立](https://mp.weixin.qq.com/s/yVGBGAUgZSkAmWAyTfqnOQ)
+  > [硬核科研当立](https://mp.weixin.qq.com/s/yVGBGAUgZSkAmWAyTfqnOQ)
   
   > [How to Start a Startup](https://github.com/Seasons123/blog-UX/issues/21)
 
-  > 三种人生模式：技术专家 vs 管理者 vs 独立创作者
+  > 三种人生模式：技术专家 vs 管理者 vs 独立创作者/创业者
 
-  <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/59acceee-00e8-46ee-b3d6-9d2796e856c9" />
+  <img width="430" height="200" alt="image" src="https://github.com/user-attachments/assets/59acceee-00e8-46ee-b3d6-9d2796e856c9" />
 
