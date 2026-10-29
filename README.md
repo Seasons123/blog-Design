@@ -1,7 +1,7 @@
 ###  一、设计学研究方向
 
 > 信息艺术设计研究：核心是交互设计与用户体验
-- UX :[设计是门逻辑学，然后才是美学](https://mp.weixin.qq.com/s?__biz=MzA4ODgwNjk1MQ==&mid=2653788300&idx=1&sn=d66d4b6db64fa3d4c70200becfbdd425&mpshare=1&scene=23&srcid=0403ICuf86Elk50nMq6bEsUB#rd)
+- UX：[设计是门逻辑学，然后才是美学](https://mp.weixin.qq.com/s?__biz=MzA4ODgwNjk1MQ==&mid=2653788300&idx=1&sn=d66d4b6db64fa3d4c70200becfbdd425&mpshare=1&scene=23&srcid=0403ICuf86Elk50nMq6bEsUB#rd)
   
 > 视觉传达设计研究：核心是视觉建构与意义传播(信息、符号、意义)
 
